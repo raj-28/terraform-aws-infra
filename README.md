@@ -40,10 +40,4 @@ terraform-aws-infra/
 5. Destroy when done: `terraform destroy -var-file=environments/dev/dev.tfvars`
 
 ## Interview Talking Points
-- Why modularization and environment separation matter
-- How parameterization improves reusability
-- The importance of clear commit history
-- How the structure supports best practices in real-world projects
 
----
-This README will be updated as the project progresses. Each step is documented to help you explain your process in the interview.

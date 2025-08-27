@@ -1,0 +1,6 @@
+# Ignore local documentation and environment files
+project-notes-local.md
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
