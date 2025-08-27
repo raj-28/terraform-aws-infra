@@ -16,5 +16,5 @@ azs = [
   "us-east-1c"
 ]
 instance_type = "t2.micro"
-ami_id = "ami-xxxxxxxx" # Replace with valid AMI for your region
-key_name = "your-key-pair-name" # Replace with your EC2 key pair name
+ami_id = "ami-00ca32bbc84273381" # Replace with valid AMI for your region
+key_name = "mynewkey" # Replace with your EC2 key pair name
